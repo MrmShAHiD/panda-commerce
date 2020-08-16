@@ -12,16 +12,12 @@
     font-weight: 700;
 }
 
-.carousel-container {
-    margin-top: 50px;
+.container {
+    margin-bottom: 50px;
 }
 
 .carousel-info {
     padding: 20px 40px;
-}
-
-.categories {
-    margin-top: 70px;
 }
 
 .categories-bags {
