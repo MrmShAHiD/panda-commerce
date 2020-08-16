@@ -20,21 +20,21 @@
     padding: 20px 40px;
 }
 
-.categories-bags {
+.cat1 {
     color: white;
     background-color: #8e0269;
     padding: 30px;
     border-radius: 20px;
 }
 
-.categories-shoes {
+.cat2 {
     color: white;
     background-color: #0b4988;
     padding: 30px;
     border-radius: 20px;
 }
 
-.categories-watches {
+.cat3 {
     color: white;
     background-color: #62ca14;
     padding: 30px;
