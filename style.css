@@ -20,23 +20,22 @@
     padding: 20px 40px;
 }
 
-.cat1 {
+.cat1,
+.cat2,
+.cat3 {
     color: white;
-    background-color: #8e0269;
-    padding: 30px;
+    padding: 10px 30px;
     border-radius: 20px;
+}
+
+.cat1 {
+    background-color: #8e0269;
 }
 
 .cat2 {
-    color: white;
     background-color: #0b4988;
-    padding: 30px;
-    border-radius: 20px;
 }
 
 .cat3 {
-    color: white;
     background-color: #62ca14;
-    padding: 30px;
-    border-radius: 20px;
 }
